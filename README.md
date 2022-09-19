@@ -15,4 +15,14 @@ Maven repo for mm-socket-server (https://github.com/slagyr/mmsocketserver_java)
         </snapshots>
     </repository>
 </repositories>
+
+
+<dependencies>
+    <dependency>
+        <dependency>
+        <groupId>ru.ancap</groupId>
+        <artifactId>mm-socket-server</artifactId>
+        <version>1.0</version>
+    </dependency>
+</dependencies>
 ```

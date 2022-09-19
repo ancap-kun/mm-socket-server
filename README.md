@@ -7,8 +7,8 @@ Maven repo for mm-socket-server (https://github.com/slagyr/mmsocketserver_java)
 ```
 <repositories>
     <repository>
-        <id>[name-project]-mvn-repo</id>
-        <url>https://raw.github.com/[username]/[name-project]/mvn-repo/</url>
+        <id>mm-socket-server-mvn-repo</id>
+        <url>https://raw.github.com/ancap-kun/mm-socket-server/mvn-repo/</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>

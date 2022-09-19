@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/ancap/mm/socket/server/MockSocket.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/ancap/mm/socket/server/MockSocket.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/ancap/mm/socket/server/SocketServer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/ancap/mm/socket/server/SocketServer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/ancap/mm/socket/server/SocketService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/ancap/mm/socket/server/SocketService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/ancap/mm/socket/server/StreamReader.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/ancap/mm/socket/server/StreamReader.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/ru/ancap/mm/socket/server/SocketServiceTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/ru/ancap/mm/socket/server/SocketServiceTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/ru/ancap/mm/socket/server/StreamReaderTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/ru/ancap/mm/socket/server/StreamReaderTest.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
